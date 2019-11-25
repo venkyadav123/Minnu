@@ -17,10 +17,10 @@
         <junit.version>5.3.1</junit.version>
         <jacoco.version>0.8.2</jacoco.version>
         <properties>
-  <sonar.projectKey>sonarproject1</sonar.projectKey>
-  <sonar.organization>minnu123</sonar.organization>
+  <sonar.projectKey>sonardemo1</sonar.projectKey>
+  <sonar.organization>venky239</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>690cc26290964cacfa31c867697db8b9ba65d14a</sonar.login>   
+  <sonar.login>5a4cc6e793eb660f6d072c61ce6c3c3e50530114</sonar.login>  
              
     </properties>
 
