@@ -16,10 +16,10 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>5.3.1</junit.version>
         <jacoco.version>0.8.2</jacoco.version>
-        <sonar.projectKey>minnu1</sonar.projectKey>
-  <sonar.organization>minnu123</sonar.organization>
+        <sonar.projectKey>sonardemo1</sonar.projectKey>
+  <sonar.organization>venky239</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>c2f9db26437a6c789349a9fbfdec09fad112b06b</sonar.login> 
+  <sonar.login>c3d673b1b67050cfc6b30a7bf2371d7c9b178937</sonar.login> 
              
     </properties>
 
