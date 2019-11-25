@@ -19,7 +19,7 @@
         <sonar.projectKey>minnu1</sonar.projectKey>
   <sonar.organization>minnu123</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>c2f9db26437a6c789349a9fbfdec09fad112b06b</sonar.login>    
+  <sonar.login>2377e708ff49442848425d0bf6d11beb4e09740a</sonar.login>    
              
     </properties>
 
